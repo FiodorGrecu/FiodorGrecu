@@ -1,9 +1,14 @@
 - 👋 Hi, I’m @FiodorGrecu
-- 👀 I’m interested in working with Java and Python
-- 🌱 I’m currently looking into advanced SQLServer Karate API for testing, Cucumber, Selenuim, TestNJ, JUnit5, Jenkins, Postman SoapUI...how to work with XML and JSON files. 
-- 💞️ I’m looking to collaborate as SDET on agile team environment and I am familiar with Git and Jira Atlasian for colaboration.
-- I am also familliar with JavaScript, external API, React, Node.Js, HTML, CSS 
-- 📫 How to reach me fiodorgrecu@gmai.com also https://www.linkedin.com/in/fiodorgrecu/ as well as https://twitter.com/grecu_fiodor
+-👀 I’m passionate about working with Java, JavaScript, and Python to build scalable and efficient test automation solutions.
+
+-🌱 Currently exploring advanced Playwright, SQL Server, Karate API, Cucumber, Selenium, TestNG, JUnit5, Postman, and SoapUI, with a focus on working with XML and JSON files for comprehensive testing.
+
+-🚀 Experienced in CI/CD pipelines, Jenkins, Kubernetes, and Docker to streamline automated testing and deployment processes.
+
+-💞️ Eager to collaborate as an SDET in an Agile team environment, leveraging tools like Git, Azure DevOps, Jira, and Atlassian for effective collaboration.
+
+-💻 Proficient in Java, JavaScript, React, Node.js, HTML, and CSS, with experience integrating external APIs into web applications.
+- 📫 How to reach me fiodor_grecu@outlook.com
 
 <!---
 FiodorGrecu/FiodorGrecu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
